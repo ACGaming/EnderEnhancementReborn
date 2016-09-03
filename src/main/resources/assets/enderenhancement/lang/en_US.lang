@@ -1,0 +1,11 @@
+#Items
+item.eeStick.name=Ender Stick
+item.eeNugget.name=Ender Pearl Nugget
+item.eeFruit.name=Ender Fruit
+item.eeEmpoweredEnderPearl=Empowered Ender Pearl
+ite.eeExtremeEnderPearl.name=Extreme Ender Pearl
+
+#Blocks
+tile.eeEnderBlock.name=Ender Pearl Block
+tile.eeEmpoweredEnderBlock.name=Empowered Ender Pearl Block
+tile.eeExtremeEnderBlock.name=Extreme Ender Pearl Block
