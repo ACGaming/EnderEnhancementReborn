@@ -1,0 +1,11 @@
+#Items
+item.eeStick.name=Enderstock
+item.eeNugget.name=Enderperlennugget
+item.eeFruit.name=Enderfrucht
+item.eeEmpoweredEnderPearl=Ermächtigte Enderperle
+ite.eeExtremeEnderPearl.name=Extreme Enderperle
+
+#Blocks
+tile.eeEnderBlock.name=Enderperlenblock
+tile.eeEmpoweredEnderBlock.name=Ermächtigter Enderperlenblock
+tile.eeExtremeEnderBlock.name=Extremer Enderperlenblock
